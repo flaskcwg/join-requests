@@ -6,7 +6,7 @@ Requests to join the WorkGroup goes here
 
 Thanks for volunteering, here are some criterias to abide by to volunteer for all areas:
 
-- You have used Flask extensively, in other words, you are invested in the language.
+- You have used Flask extensively, in other words, you are invested in the framework. Exception is for events.
 - You have used some extentions like flask_wtf, flask_sqlalchemy/sqlalchemy, wtforms alchemy
 - Your Github/Gitlab/... profile is not empty
 
