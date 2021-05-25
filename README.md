@@ -26,4 +26,4 @@ Create an issue named:
 
 `Join request: @your_username`
 
-Write in it a brief intro of yourself as well as your Flask experience, the areas you volunteer for from (code, events, education, translation) as well as exponding how you fulfill the criterias above.
+Write in it a brief intro of yourself as well as your Flask experience, the areas you volunteer for from (code, events, education, translation) as well as expounding how you fulfill the criterias above.
