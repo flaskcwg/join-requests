@@ -6,7 +6,7 @@ Requests to join the WorkGroup goes here
 
 Thanks for volunteering, here are some criterias to abide by to volunteer for all areas:
 
-- You have used Flask
+- You have used Flask extensively, in other words, you are invested in the language.
 - You have used some extentions like flask_wtf, flask_sqlalchemy/sqlalchemy, wtforms alchemy
 - Your Github/Gitlab/... profile is not empty
 
@@ -16,8 +16,7 @@ Thanks for volunteering, here are some criterias to abide by to volunteer for al
 
 # Criterias for vounteering to maintain projects (code)
 
-- You have maintainer experience
-- You have a 'nice' Github profile. By nice it means that: you have experience maintaining a known project or you have been contributing consistently to a known project
+- You have a 'nice' Github/Gitlab/... profile. By nice it means that: you have experience maintaining a known project or you have been contributing consistently to a known project
 
 # How to apply?
 
