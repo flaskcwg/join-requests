@@ -12,7 +12,9 @@ Thanks for volunteering, here are some criterias to abide by to volunteer for al
 
 # Criterias for volunteering for Education
 
-- You have the habit of writing code-related posts
+- You have the habit of writing code-related posts if you are contributing an article
+- You have experience with helping on StackOverflow or similar or on help channels if you are contributing FaQs
+- You have used Flask extensively as user or plugins author or long time contributor if you are helping with resources curation
 
 # Criterias for vounteering to maintain projects (code)
 
@@ -38,7 +40,7 @@ Issues will be created on adopted projects. Solve the issues. After consistent w
 
 ### For Education
 
-If you did some past outstanding work on preparing Flask tutorials and courses, you'll be added to the WG. Else, a series of topics will be posted soon. You can PR articles on the topics. After consistent work, you'll be added to the WG.
+If you did some past outstanding work on preparing Flask tutorials and courses, you'll be added to the WG. Else, a series of topics will be posted soon. You can PR articles on the topics. Based on the areas above for education viz blog posts, faqs and resources curation, after consistent work, you'll be added to the WG.
 
 ### For events
 
