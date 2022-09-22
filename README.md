@@ -20,6 +20,10 @@ Thanks for volunteering, here are some criterias to abide by to volunteer for al
 
 - You have a 'nice' Github/Gitlab/... profile. By nice it means that: you have experience maintaining a known project or you have been contributing consistently to a known project
 
+# Criterias for vounteering for community
+
+- You are responsible/moderator of a sizeable entity of a Discord/reddit or similar or you help a lot to answer questions.
+
 # How to apply?
 
 Create an issue named: 
