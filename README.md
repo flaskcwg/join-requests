@@ -49,3 +49,7 @@ For events, when the time comes, just join as volunteer and help with the event 
 ### For translation
 
 Just be a regular translator and the coordinator will add you as a member of the WG
+
+### Community
+
+You are responsible/moderator of a sizeable entity of a Discord/reddit or similar or you help a lot to answer questions.
